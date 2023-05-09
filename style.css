@@ -1,0 +1,9 @@
+.container-nick {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 20px;
+}
+
+.container-nick span {
+  margin-bottom: 10px;
+}
